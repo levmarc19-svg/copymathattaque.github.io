@@ -1,1 +1,0 @@
-# copymathattaque.github.io
