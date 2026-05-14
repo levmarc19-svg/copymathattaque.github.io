@@ -85,7 +85,7 @@ function nouvelleparabole(){
     document.getElementById("c").value = ""
     document.getElementById("divAffiche").innerText = ""
 }
-*/
+
 //https://stackoverflow.com/questions/8145154/how-do-i-load-a-video-into-a-html5-page-with-javascript-using-onclick
 
 const opening = document.getElementById("opening");
@@ -127,6 +127,6 @@ document.getElementById('play-btn').addEventListener('click', function(event) {
     }
     
     localStorage.setItem('mathAttaqueUser', username);
-});
+});*/
 
 
